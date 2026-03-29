@@ -104,8 +104,15 @@ footer {
 }
 
 .code-example {
-    background-color: #FFD9D9;
     margin: 0 300px 0 0;
+}
+
+.code-title {
+    background-color: none;
+}
+
+.code-block {
+    background-color: #FFD9D9;
     padding: 10px;
-    border-radius: 3%;
+    border-radius: 5px;
 }
